@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/S-harsith/leetcode-problem/tree/master/0009-palindrome-number) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/S-harsith/leetcode-problem/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
