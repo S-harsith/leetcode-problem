@@ -43,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/S-harsith/leetcode-problem/tree/master/0610-triangle-judgement) |
 | [1084-sales-analysis-iii](https://github.com/S-harsith/leetcode-problem/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/S-harsith/leetcode-problem/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1148-article-views-i](https://github.com/S-harsith/leetcode-problem/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
