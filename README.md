@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/S-harsith/leetcode-problem/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/S-harsith/leetcode-problem/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/S-harsith/leetcode-problem/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/S-harsith/leetcode-problem/tree/master/0610-triangle-judgement) |
 | [1084-sales-analysis-iii](https://github.com/S-harsith/leetcode-problem/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/S-harsith/leetcode-problem/tree/master/1141-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
