@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/S-harsith/leetcode-problem/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S-harsith/leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/S-harsith/leetcode-problem/tree/master/0169-majority-element) |
 ## Hash Table
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/S-harsith/leetcode-problem/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/S-harsith/leetcode-problem/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/S-harsith/leetcode-problem/tree/master/1251-average-selling-price) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/S-harsith/leetcode-problem/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/S-harsith/leetcode-problem/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
