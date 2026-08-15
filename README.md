@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/S-harsith/leetcode-problem/tree/master/0169-majority-element) |
 | [1140-stone-game-ii](https://github.com/S-harsith/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/S-harsith/leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/S-harsith/leetcode-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/S-harsith/leetcode-problem/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/S-harsith/leetcode-problem/tree/master/0136-single-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/S-harsith/leetcode-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
 |  |
 | ------- |
