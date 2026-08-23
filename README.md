@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/S-harsith/leetcode-problem/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/S-harsith/leetcode-problem/tree/master/0009-palindrome-number) |
 | [1140-stone-game-ii](https://github.com/S-harsith/leetcode-problem/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/S-harsith/leetcode-problem/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/S-harsith/leetcode-problem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/S-harsith/leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/S-harsith/leetcode-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/S-harsith/leetcode-problem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/S-harsith/leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/S-harsith/leetcode-problem/tree/master/0058-length-of-last-word) |
+| [1927-sum-game](https://github.com/S-harsith/leetcode-problem/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/S-harsith/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/S-harsith/leetcode-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/S-harsith/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/S-harsith/leetcode-problem/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/S-harsith/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/S-harsith/leetcode-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/S-harsith/leetcode-problem/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/S-harsith/leetcode-problem/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
