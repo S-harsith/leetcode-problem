@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/S-harsith/leetcode-problem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/S-harsith/leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/S-harsith/leetcode-problem/tree/master/0058-length-of-last-word) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/S-harsith/leetcode-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1927-sum-game](https://github.com/S-harsith/leetcode-problem/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/S-harsith/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/S-harsith/leetcode-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -119,10 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/S-harsith/leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/S-harsith/leetcode-problem/tree/master/0094-binary-tree-inorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/S-harsith/leetcode-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/S-harsith/leetcode-problem/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/S-harsith/leetcode-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/S-harsith/leetcode-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/S-harsith/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/S-harsith/leetcode-problem/tree/master/1927-sum-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/S-harsith/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
