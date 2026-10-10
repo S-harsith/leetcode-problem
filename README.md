@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/S-harsith/leetcode-problem/tree/master/0169-majority-element) |
 | [1140-stone-game-ii](https://github.com/S-harsith/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/S-harsith/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/S-harsith/leetcode-problem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/S-harsith/leetcode-problem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/S-harsith/leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/S-harsith/leetcode-problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/S-harsith/leetcode-problem/tree/master/0169-majority-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/S-harsith/leetcode-problem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/S-harsith/leetcode-problem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/S-harsith/leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/S-harsith/leetcode-problem/tree/master/3731-find-missing-elements) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/S-harsith/leetcode-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/S-harsith/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/S-harsith/leetcode-problem/tree/master/1927-sum-game) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/S-harsith/leetcode-problem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/S-harsith/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/S-harsith/leetcode-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/S-harsith/leetcode-problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/S-harsith/leetcode-problem/tree/master/0035-search-insert-position) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/S-harsith/leetcode-problem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/S-harsith/leetcode-problem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Tree
 |  |
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/S-harsith/leetcode-problem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/S-harsith/leetcode-problem/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
