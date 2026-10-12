@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/S-harsith/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/S-harsith/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/S-harsith/leetcode-problem/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/S-harsith/leetcode-problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/S-harsith/leetcode-problem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/S-harsith/leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/S-harsith/leetcode-problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/S-harsith/leetcode-problem/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/S-harsith/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/S-harsith/leetcode-problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/S-harsith/leetcode-problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/S-harsith/leetcode-problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/S-harsith/leetcode-problem/tree/master/3731-find-missing-elements) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/S-harsith/leetcode-problem/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/S-harsith/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/S-harsith/leetcode-problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/S-harsith/leetcode-problem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/S-harsith/leetcode-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/S-harsith/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/S-harsith/leetcode-problem/tree/master/1927-sum-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/S-harsith/leetcode-problem/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/S-harsith/leetcode-problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/S-harsith/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/S-harsith/leetcode-problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/S-harsith/leetcode-problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
