@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/S-harsith/leetcode-problem/tree/master/0169-majority-element) |
 | [1140-stone-game-ii](https://github.com/S-harsith/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/S-harsith/leetcode-problem/tree/master/1386-cinema-seat-allocation) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/S-harsith/leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/S-harsith/leetcode-problem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/S-harsith/leetcode-problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/S-harsith/leetcode-problem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/S-harsith/leetcode-problem/tree/master/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/S-harsith/leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S-harsith/leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1140-stone-game-ii](https://github.com/S-harsith/leetcode-problem/tree/master/1140-stone-game-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/S-harsith/leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/S-harsith/leetcode-problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/S-harsith/leetcode-problem/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/S-harsith/leetcode-problem/tree/master/0009-palindrome-number) |
 | [1140-stone-game-ii](https://github.com/S-harsith/leetcode-problem/tree/master/1140-stone-game-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/S-harsith/leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/S-harsith/leetcode-problem/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/S-harsith/leetcode-problem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/S-harsith/leetcode-problem/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -210,10 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/S-harsith/leetcode-problem/tree/master/0094-binary-tree-inorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/S-harsith/leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/S-harsith/leetcode-problem/tree/master/0094-binary-tree-inorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/S-harsith/leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Simulation
 |  |
 | ------- |
@@ -221,13 +227,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/S-harsith/leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/S-harsith/leetcode-problem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/S-harsith/leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/S-harsith/leetcode-problem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/S-harsith/leetcode-problem/tree/master/2333-minimum-sum-of-squared-difference) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/S-harsith/leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/S-harsith/leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/S-harsith/leetcode-problem/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
